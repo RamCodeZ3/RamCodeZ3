@@ -1,4 +1,8 @@
-<img alt="Night Coding" src="[./assets/Hand%20Wave.gif](https://imgur.com/a/O4vuZwl)" width='40' align="left"/><h1>Bievenido a mi perfil de GithHub :star2: </h1>
+<p align="center">
+  <img src="https://imgur.com/a/O4vuZwl" width="600" />
+</p>
+
+<h1 align="center">¡Bievenido a mi perfil de GithHub :star2:!</h1>
 
 
 <h1 align="center">Tech Stack</h1>  
