@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://imgur.com/a/O4vuZwl](https://imgur.com/a/O4vuZwl)"/>
+  <img src="Diseño sin título.png"/>
 </p>
 
 <h1 align="center">¡Bievenido a mi perfil de GithHub :star2:!</h1>
