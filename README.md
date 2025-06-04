@@ -10,4 +10,9 @@
   </a>
 </p>
 
+<div align="center">
+  <h2>Currently Learning</h2>
+  <img src="https://skillicons.dev/icons?i=java,postgresql/>
+</div>
+
 Edicion: 02/06/2025
