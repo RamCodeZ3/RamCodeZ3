@@ -3,7 +3,7 @@
   <img src="RamCode.png"/>
 </p>
 
-<h1 align="center">Tech Stack</h1>  
+<h2 align="center">Tech Stack</h2>  
 <p  align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql" />
@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=java,postgresql/>
+  <img src="https://skillicons.dev/icons?i=java,postgres/>
 </div>
 
-Edicion: 02/06/2025
+Edicion: 03/06/2025
