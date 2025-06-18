@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=java,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,postgres,react" />
 </div>
 
 Edicion: 03/06/2025
