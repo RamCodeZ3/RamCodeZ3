@@ -15,4 +15,4 @@
   <img src="https://skillicons.dev/icons?i=java,postgres,react,tailwindcss" />
 </div>
 
-Edicion: 03/06/2025
+Edicion: 11/07/2025
