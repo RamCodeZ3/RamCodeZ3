@@ -6,13 +6,13 @@
 <h2 align="center">Tech Stack</h2>  
 <p  align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,react,tailwindcss" />
   </a>
 </p>
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=java,postgres,react,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=java,postgres,express" />
 </div>
 
-Edicion: 11/07/2025
+Edicion: 17/07/2025
