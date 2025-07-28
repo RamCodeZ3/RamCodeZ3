@@ -15,4 +15,9 @@
   <img src="https://skillicons.dev/icons?i=java,postgres,express" />
 </div>
 
-Edicion: 17/07/2025
+<div align="center">
+  <h2 aling="center">My Top lenguages</h2>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RamCodeZ3&layout=donut&theme=transparent'/>
+</div>
+
+Edicion: 28/07/2025
