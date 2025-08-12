@@ -1,23 +1,31 @@
 <h1 align="center">¡Bievenido a mi perfil de GithHub :star2:!</h1>
 <p align="center">
-  <img src="RamCode.png"/>
+  <img src="RamCode.png" alt="RamCode Logo"/>
 </p>
 
-<h2 align="center">Tech Stack</h2>  
-<p  align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,react,tailwindcss" />
-  </a>
-</p>
+<h2 align="center">Technology</h2>
 
-<div align="center">
-  <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=java,postgres,express" />
-</div>
+<table align="center">
+  <tr>
+    <th>Tech Stack</th>
+    <th>Currently Learning</th>
+    <th>My Top lenguajes</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,react,tailwindcss&perline=5" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,postgres,express&perline=5" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamCodeZ3&layout=donut&theme=transparent" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <h2 aling="center">My Top lenguages</h2>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RamCodeZ3&layout=donut&theme=transparent'/>
-</div>
-
-Edicion: 28/07/2025
+Edicion: 12/8/2025
