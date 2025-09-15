@@ -14,12 +14,12 @@
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,react,tailwindcss&perline=5" />
+        <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,react,tailwindcss,java&perline=5" />
       </a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,postgres,express&perline=5" />
+        <img src="https://skillicons.dev/icons?i=postgres,express&perline=5" />
       </a>
     </td>
     <td>
