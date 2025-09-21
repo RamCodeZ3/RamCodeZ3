@@ -28,4 +28,4 @@
   </tr>
 </table>
 
-Edicion: 13/8/2025
+Edicion: 21/09/2025
