@@ -8,18 +8,12 @@
 <table align="center">
   <tr>
     <th>Tech Stack</th>
-    <th>Currently Learning</th>
     <th>My Top lenguajes</th>
   </tr>
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,django,html,css,js,mysql,react,tailwindcss,java&perline=5" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,express&perline=5" />
       </a>
     </td>
     <td>
