@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,ts,react,tailwindcss,java,mysql,postgresql&perline=6"/><br>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,html,css,js,ts,react,tailwindcss,java,mysql,postgresql&perline=6"/><br>
 </div>
 
 <div align="center">
@@ -14,4 +14,4 @@
 </div>
 
 
-Edicion: 28/11/2025
+Edicion: 11/12/2025
