@@ -1,4 +1,4 @@
-<h1 align="center">¡Bievenido a mi perfil de GitHub :star2:!</h1>
+<h1 align="center">¡ Bievenido a mi perfil de GitHub :star2: !</h1>
 <p align="center">
   <img src="RamCode.png" alt="RamCode Logo"/>
 </p>
@@ -14,4 +14,4 @@
 </div>
 
 
-Edicion: 11/12/2025
+Edicion: 23/12/2025
