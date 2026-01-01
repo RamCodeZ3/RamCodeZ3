@@ -1,6 +1,9 @@
-<h1 align="center">¡ Bievenido a mi perfil de GitHub :star2: !</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!+🌟" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="RamCode.png" alt="RamCode Logo"/>
+  <img src="Aram Musset.png" alt="RamCode Logo"/>
 </p>
 
 <div align="center">
@@ -14,4 +17,4 @@
 </div>
 
 
-Edicion: 23/12/2025
+Edicion: 01/01/2026
