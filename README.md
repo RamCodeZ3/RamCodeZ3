@@ -8,7 +8,7 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,html,css,js,ts,react,tailwindcss,java,mysql,postgresql&perline=6"/><br>
+  <img src="https://skillicons.dev/icons?i=py,react,tailwindcss,java,mysql,postgresql,ts,js,fastapi,django,html,css&perline=6"/><br>
 </div>
 
 <div align="center">
