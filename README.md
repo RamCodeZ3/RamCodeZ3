@@ -6,15 +6,19 @@
   <img src="Aram Musset.png" alt="RamCode Logo"/>
 </p>
 
-<div align="center">
-  <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=py,react,tailwindcss,java,mysql,postgresql,ts,js,fastapi,django,html,css&perline=6"/><br>
+<h2>Sobre Mi</h2>
+<p>Soy <strong>Aram Musset</strong>, desarrollador Full-Stack apasionado por crear soluciones de software eficientes y bien estructuradas, aplicando buenas prácticas y principios sólidos de programación. Me enfoco en desarrollar código limpio, escalable y orientado a la calidad.</p>
+
+<p>
+  📍 Santo Domingo Este, República Dominicana.
+</p>
+
+<h2>Tech Stack</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=py,react,tailwindcss,java,mysql,postgresql,ts,js,fastapi,django,html,css"/><br>
 </div>
 
-<div align="center">
-  <h2>My top lenguages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamCodeZ3&layout=donut&theme=transparent" alt="Top Languages"/>
+
+<div align='end'>
+  Edicion: 16/01/2026
 </div>
-
-
-Edicion: 01/01/2026
