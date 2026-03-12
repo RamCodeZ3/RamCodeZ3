@@ -7,7 +7,7 @@
 </p>
 
 <h2>Sobre Mi</h2>
-<p>Soy <strong>Aram Musset</strong>, desarrollador Full-Stack apasionado por crear soluciones de software eficientes y bien estructuradas, aplicando buenas prácticas y principios sólidos de programación. Me enfoco en desarrollar código limpio, escalable y orientado a la calidad.</p>
+<p>Soy <strong>Aram Musset</strong>, desarrollador Full-Stack y estudiante en desarrollo de software apasionado por crear soluciones de software eficientes y bien estructuradas, aplicando buenas prácticas y principios sólidos de programación. Me enfoco en desarrollar código limpio, escalable y siempre apuntando a la calidad.</p>
 
 <p>
   📍 Santo Domingo Este, República Dominicana.
@@ -20,5 +20,5 @@
 
 
 <div align='end'>
-  Edicion: 16/01/2026
+  Edicion: 11/03/2026
 </div>
