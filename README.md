@@ -22,7 +22,7 @@
 <br/>
 <p align="center">
   <a href="https://stats.hyo.dev/stats/ramcodez3">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ramcodez3" width="600" />
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ramcodez3" width="500" />
   </a>
 </p>
 
