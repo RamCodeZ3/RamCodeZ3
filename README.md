@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="Aram_Musset_1.png" alt="RamCode Logo"/>
+  <img src="Aram_Musset_2.png" alt="RamCode Logo"/>
 </p>
 
 ## Sobre Mi
